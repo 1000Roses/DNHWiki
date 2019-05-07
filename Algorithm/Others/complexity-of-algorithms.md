@@ -57,7 +57,7 @@ Thời gian máy của bạn chạy code một phần phụ thuộc vào cấu h
 	- Cách 2: dùng lí thuyết để dự đoán thời gian thực hiện chương trình. Thời gian thực hiện chương trình phụ thuộc vào cả input và cả code của bạn nữa, tức là input càng to thì thời gian thực hiện chương trình của bạn càng to (chẳng hạn)
 
 - Miêu tả lí thuyết:
-Thông thường cỡ của dữ liệu vào là một số nguyên dương n, ta sử dụng hàm số T(n) trong đó n là cỡ của dữ liệu vào để biểu diễn thời thực hiện của một thuật toán.
+Thông thường cỡ của dữ liệu vào là một số nguyên dương n, ta sử dụng hàm số T(n) trong đó n là cỡ của dữ liệu vào để biểu diễn thời gian thực hiện của một thuật toán.
 (Ví dụ: đối với bài toán kiểm tra số nguyên tố thì cỡ của dữ liệu vào là số `n` cần kiểm tra; hay với bài toán sắp xếp dãy số, cỡ của dữ liệu vào là số phần tử của dãy).
 
 Trong tài liệu này, chúng ta hiểu hàm số T(n) là thời gian cần thiết để thực hiện thuật toán với bộ dữ liệu đầu vào cỡ n.
